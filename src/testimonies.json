@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Andres Diaz",
+        "country": "Colombia",
+        "history": "Antes de tomar los cursos de RiandiCode, María tenía un trabajo aburrido en un call center. Después de aprender a programar con RiandiCode, María pudo conseguir un trabajo mucho más emocionante como desarrolladora de software en una startup en su ciudad natal. Ahora, disfruta de su trabajo y de la vida en general gracias a las habilidades que adquirió en RiandiCode.",
+        "phrase": "Gracias a RiandiCode, pude dejar mi trabajo aburrido en un call center y convertirme en una desarrolladora de software emocionada por su trabajo.",
+        "divOrder": "div1",
+        "img": "https://raw.githubusercontent.com/RahulSahOfficial/testimonials_grid_section/5532c958b7d3c9b910a216b198fdd21c73112d84/images/image-daniel.jpg"
+    },
+    {
+        "name": "John Smith",
+        "country": "Estados Unidos",
+        "history": "“Empecé como un novato total, prácticamente sin conocimientos de codificación. Fue de las mejores inversiones que he hecho en mí mismo. ”",
+        "phrase": "El equipo me apoyó mucho y me mantuvo motivado.",
+        "divOrder": "div2",
+        "img": "https://raw.githubusercontent.com/RahulSahOfficial/testimonials_grid_section/5532c958b7d3c9b910a216b198fdd21c73112d84/images/image-jonathan.jpg"
+    },
+    {
+        "name": "Sara González",
+        "country": "Colombia",
+        "history": "Antes de tomar los cursos de RiandiCode, María tenía un trabajo aburrido en un call center. Después de aprender a programar con RiandiCode, María pudo conseguir un trabajo mucho más emocionante como desarrolladora de software en una startup en su ciudad natal. Ahora, disfruta de su trabajo y de la vida en general gracias a las habilidades que adquirió en RiandiCode.",
+        "phrase": "Gracias a RiandiCode, pude dejar mi trabajo aburrido en un call center y convertirme en una desarrolladora de software emocionada por su trabajo.",
+        "divOrder": "div3",
+        "darkText": "dark",
+        "img": "https://raw.githubusercontent.com/RahulSahOfficial/testimonials_grid_section/5532c958b7d3c9b910a216b198fdd21c73112d84/images/image-kira.jpg"
+    },
+    {
+        "name": "Isabella Rodriguez",
+        "country": "España",
+        "history": "“ Gracias por la experiencia maravillosa! Ahora tengo un trabajo que realmente disfruto y gano bien la vida mientras hago algo que amo. ”",
+        "phrase": "Una experiencia maravillosa y gratificante en general.",
+        "divOrder": "div4",
+        "darkText": "dark",
+        "img": "https://raw.githubusercontent.com/RahulSahOfficial/testimonials_grid_section/5532c958b7d3c9b910a216b198fdd21c73112d84/images/image-jeanette.jpg"
+    },
+    {
+        "name": "Maycol Tamayo",
+        "country": "Costa Rica",
+        "history": "Antes de tomar los cursos de RiandiCode, María tenía un trabajo aburrido en un call center. Después de aprender a programar con RiandiCode, María pudo conseguir un trabajo mucho más emocionante como desarrolladora de software en una startup en su ciudad natal. Ahora, disfruta de su trabajo y de la vida en general gracias a las habilidades que adquirió en RiandiCode.",
+        "phrase": "Gracias a RiandiCode, pude dejar mi trabajo aburrido en un call center y convertirme en una desarrolladora de software emocionada por su trabajo.",
+        "divOrder": "div5",
+        "img": "https://raw.githubusercontent.com/RahulSahOfficial/testimonials_grid_section/5532c958b7d3c9b910a216b198fdd21c73112d84/images/image-patrick.jpg"
+    }
+]

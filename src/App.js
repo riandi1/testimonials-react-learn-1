@@ -1,23 +1,27 @@
-import logo from './logo.svg';
 import './App.css';
+import Testimony from "./components/Testimony";
+import testimoniesData from './testimonies.json'
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <h1 className='text-center'>Testimonios Estudiantes RiandiCode</h1>
+      <div className="outerdiv">
+        <div className="innerdiv">
+        {testimoniesData.map((testimony, index) => (
+            <Testimony
+              key={index}
+              name={testimony.name}
+              country={testimony.country}
+              history={testimony.history}
+              phrase={testimony.phrase}
+              divOrder={testimony.divOrder}
+              img={testimony.img}
+              darkText={testimony.darkText}
+            />
+          ))}
+        </div>
+      </div>
     </div>
   );
 }
