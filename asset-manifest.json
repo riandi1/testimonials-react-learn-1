@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/testimonials-react-learn-1/static/css/main.f6721228.css",
+    "main.js": "/testimonials-react-learn-1/static/js/main.927fe8ec.js",
+    "index.html": "/testimonials-react-learn-1/index.html",
+    "main.f6721228.css.map": "/testimonials-react-learn-1/static/css/main.f6721228.css.map",
+    "main.927fe8ec.js.map": "/testimonials-react-learn-1/static/js/main.927fe8ec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f6721228.css",
+    "static/js/main.927fe8ec.js"
+  ]
+}
